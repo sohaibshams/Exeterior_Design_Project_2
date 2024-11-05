@@ -31,47 +31,51 @@ Welcome to the **Residential Design Project** repository! This project showcases
 ## 🔍 Preview
 **File_1**
 
-https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3MzA4MDE4MDRfZjRiNWNmMDQtM2NmMS00ZGQyLWE5OTMtZmM4NGIxZTgwOWRjLm1heA?sheetId=YTBhOTdmZmEtMmM0YS00YzA1LWJkYjMtYmZiZTJjMTRiMWE5
+https://autode.sk/3NUvgPu
 
 **File_2**
 
-https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3MzA4MDE4OTFfZTYzNTkxM2QtOWZkMi00MzM5LTgwY2UtOWM3MWE3MjRlYmQwLm1heA?sheetId=ZmE5Y2VhZDgtYjhkMS00ZDQ0LWFhNTctZWE3ZGUxYmQ4Yjg5
+https://autode.sk/3UD0jDg
 
 **File_3**
 
-https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3MzA4MDE5MjJfMDFjODNjMTAtNGQ3NS00NmZiLThkZmQtOWE0MDk3YTg2ZDBkLm1heA?sheetId=NGY2Y2U2ZDUtMzkxYy00ZGY1LWJmZDEtZTVmMWJjODRiYjY2
+https://autode.sk/3AtBq5R
 
 **File_4**
 
-https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3MzA4MDE5NjlfNTgyYWY0YWQtMmZhYi00YjA2LTgxN2YtYTM4ZmQxYzcwNDMyLm1heA?sheetId=ZTNjMmU1NWMtMmQzOS00M2Q1LTg4MDAtMzA5YjMyMjk0NzU1
+https://autode.sk/3UD0oH4
 
 **File_5**
 
-https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3MzA4MDE5OTBfM2QxYmVhODgtNzhmZC00MzVjLWI2Y2EtMjVhMmE5YmYyYzZmLm1heA?sheetId=YjFmMjA4ODItOWFmZC00NmY5LTgzZTItYTljMThlODgzNmUz
+https://autode.sk/48A4LbA
 
 **File_6**
 
-https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3MzA4MDIwMjhfZTEwZWRkZmQtMGY4OS00YzJkLTlhOTItMWMxYjUzNmY4NTFjLm1heA?sheetId=YWVlMjBjYWMtMmExMy00NTIxLTg1YWYtMWRkZjRiYTBiZTdh
+https://autode.sk/3YCcYqT
 
 **File_7**
 
-https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3MzA4MDIwODhfNjY5ZjFlYjktNDAzNC00ZjlmLTgzMzAtNTIyZjg4MzZkYmZjLm1heA?sheetId=ODYyY2I0YzMtNjU0ZS00MTU3LWE1YWItMGE2MDBlYzk3Y2Rl
+https://autode.sk/48xLBTL
 
 **File_8**
 
-https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3MzA4MDIxMjBfZjdhNDQ0MGQtOTgzZi00ZjA1LTkyYzUtOWZhMTYwOWRlMDhjLm1heA?sheetId=MGJkMjNmMWUtNDY5YS00ZTNhLWE5NWQtNDQ0NTM5ZDBjM2Rh
+https://autode.sk/48EyCQg
 
 **File_9**
 
-https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3MzA4MDIxMzhfMmI2YWZmMTctOTk1My00MDc2LWFmZWQtMWFiNzA4ZWM1ZDlmLm1heA?sheetId=ZmFhODNkYWEtZDNkNC00OWVlLWIxZGMtYzJjNTExNzExMTM4
+https://autode.sk/3Ci7ryA
 
 **File_10**
 
-https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3MzA4MDIxODhfNzI2ZGQyN2UtMWE2Zi00ZjcwLThlMzctNjczYTAxZGY5ZTYyLm1heA?sheetId=ZjFiNjg2ZjAtYTgxZi00NjcxLWE4OTMtMWEzZDNmMTkxZjNl
+https://autode.sk/3NQLlpk
 
 **File_11**
 
-https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3MzA4MDIyMThfZTg3ODhiOTUtNGIzOC00NjRhLTkwMzItMzZkM2E3YjZhZjY4Lm1heA?sheetId=MTkxNjkxMTUtOTliOS00NjZmLWIzYWUtNGZmMTA2YWY5MGU4
+https://autode.sk/3AB1sUM
+
+**File_12**
+
+https://autode.sk/3CcLHEh
 
 
 
