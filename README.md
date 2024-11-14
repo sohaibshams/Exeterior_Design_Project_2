@@ -31,49 +31,133 @@ Welcome to the **Residential Design Project** repository! This project showcases
 ## 🔍 Preview
 **File_1**
 
+**Image File**
+
+![Preview](Project_File/Images/Preview_1.png)
+
+
+**OR Visit for Full View**
+
 https://autode.sk/3NUvgPu
 
 **File_2**
+
+**Image File**
+
+![Preview](Project_File/Images/preview_2.png)
+
+
+**OR Visit for Full View**
 
 https://autode.sk/3UD0jDg
 
 **File_3**
 
+**Image File**
+
+![Preview](Project_File/Images/preview_3.png)
+
+
+**OR Visit for Full View**
+
 https://autode.sk/3AtBq5R
 
 **File_4**
+
+**Image File**
+
+![Preview](Project_File/Images/preview_4.png)
+
+
+**OR Visit for Full View**
 
 https://autode.sk/3UD0oH4
 
 **File_5**
 
+**Image File**
+
+![Preview](Project_File/Images/preview_5.png)
+
+
+**OR Visit for Full View**
+
 https://autode.sk/48A4LbA
 
 **File_6**
+
+**Image File**
+
+![Preview](Project_File/Images/preview_6.png)
+
+
+**OR Visit for Full View**
 
 https://autode.sk/3YCcYqT
 
 **File_7**
 
+**Image File**
+
+![Preview](Project_File/Images/preview_7.png)
+
+
+**OR Visit for Full View**
+
 https://autode.sk/48xLBTL
 
 **File_8**
+
+**Image File**
+
+![Preview](Project_File/Images/preview_8.png)
+
+
+**OR Visit for Full View**
 
 https://autode.sk/48EyCQg
 
 **File_9**
 
+**Image File**
+
+![Preview](Project_File/Images/preview_9.png)
+
+
+**OR Visit for Full View**
+
 https://autode.sk/3Ci7ryA
 
 **File_10**
+
+**Image File**
+
+![Preview](Project_File/Images/preview_10.png)
+
+
+**OR Visit for Full View**
 
 https://autode.sk/3NQLlpk
 
 **File_11**
 
+**Image File**
+
+![Preview](Project_File/Images/preview_11.png)
+
+
+**OR Visit for Full View**
+
 https://autode.sk/3AB1sUM
 
 **File_12**
+
+**Image File**
+
+![Preview](Project_File/Images/preview_12.png)
+
+
+**OR Visit for Full View**
 
 https://autode.sk/3CcLHEh
 
